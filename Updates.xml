@@ -1,0 +1,22 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.fangia.esypro2</Name>
+  <DisplayName>Esy Pro 2</DisplayName>
+  <Description>This is going to install Esy Pro 2 on your computer.</Description>
+  <Version>23.11.18-0</Version>
+  <ReleaseDate>2023-11-18</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="102664222" UncompressedSize="287484720" OS="Any"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforminputcontexts.7z,platforms.7z,position.7z,printsupport.7z,qmltooling.7z,Qt.7z,QtCharts.7z,QtDataVisualization.7z,QtGraphicalEffects.7z,QtQml.7z,QtQuick.7z,QtQuick.2.7z,QtWebEngine.7z,QtWebView.7z,resources.7z,scenegraph.7z,styles.7z,translations.7z,updaters.7z,virtualkeyboard.7z,webview.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="Beer Public License Agreement" file="license.txt"/>
+  </Licenses>
+  <SHA1>a1f065350cc7868ca18f3fae162533fab9a527b2</SHA1>
+ </PackageUpdate>
+ <SHA1>6c4391445ccc8966596a80c22b144962d520b1be</SHA1>
+ <MetadataName>2023-11-17-2212_meta.7z</MetadataName>
+</Updates>
